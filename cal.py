@@ -1,7 +1,4 @@
-import calendar
 
-print(calendar.month(2020, 10))
-# To take month and year input from the user
 yy = 2020
 mm = 10
 
